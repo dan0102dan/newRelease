@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/newRelease/static/css/main.58dfefdf.chunk.css",
-    "main.js": "/newRelease/static/js/main.fb4600d4.chunk.js",
+    "main.js": "/newRelease/static/js/main.99760dc8.chunk.js",
     "runtime-main.js": "/newRelease/static/js/runtime-main.762a49f9.js",
     "static/css/2.f53a4a22.chunk.css": "/newRelease/static/css/2.f53a4a22.chunk.css",
-    "static/js/2.a10d5b19.chunk.js": "/newRelease/static/js/2.a10d5b19.chunk.js",
+    "static/js/2.9d8718e7.chunk.js": "/newRelease/static/js/2.9d8718e7.chunk.js",
     "index.html": "/newRelease/index.html",
-    "precache-manifest.2765b2396b39ac373e0ce26bb9b81d18.js": "/newRelease/precache-manifest.2765b2396b39ac373e0ce26bb9b81d18.js",
+    "precache-manifest.99fa2d51f8a6910d13d8200d7f7325ef.js": "/newRelease/precache-manifest.99fa2d51f8a6910d13d8200d7f7325ef.js",
     "service-worker.js": "/newRelease/service-worker.js",
-    "static/js/2.a10d5b19.chunk.js.LICENSE.txt": "/newRelease/static/js/2.a10d5b19.chunk.js.LICENSE.txt",
+    "static/js/2.9d8718e7.chunk.js.LICENSE.txt": "/newRelease/static/js/2.9d8718e7.chunk.js.LICENSE.txt",
     "static/media/AppleMusic.svg": "/newRelease/static/media/AppleMusic.cd5eac42.svg",
     "static/media/ava.png": "/newRelease/static/media/ava.d549df08.png"
   },
   "entrypoints": [
     "static/js/runtime-main.762a49f9.js",
     "static/css/2.f53a4a22.chunk.css",
-    "static/js/2.a10d5b19.chunk.js",
+    "static/js/2.9d8718e7.chunk.js",
     "static/css/main.58dfefdf.chunk.css",
-    "static/js/main.fb4600d4.chunk.js"
+    "static/js/main.99760dc8.chunk.js"
   ]
 }
