@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/newRelease/static/css/main.473d6a56.chunk.css",
-    "main.js": "/newRelease/static/js/main.38a0e234.chunk.js",
+    "main.css": "/newRelease/static/css/main.cad724ad.chunk.css",
+    "main.js": "/newRelease/static/js/main.50cc1292.chunk.js",
     "runtime-main.js": "/newRelease/static/js/runtime-main.762a49f9.js",
     "static/css/2.f53a4a22.chunk.css": "/newRelease/static/css/2.f53a4a22.chunk.css",
-    "static/js/2.9d8718e7.chunk.js": "/newRelease/static/js/2.9d8718e7.chunk.js",
+    "static/js/2.a3b0ee3e.chunk.js": "/newRelease/static/js/2.a3b0ee3e.chunk.js",
     "index.html": "/newRelease/index.html",
-    "precache-manifest.3047b71f8c8722a1365d861df706bf6e.js": "/newRelease/precache-manifest.3047b71f8c8722a1365d861df706bf6e.js",
+    "precache-manifest.6623598f20aaf9285df3f0c7c8d559f0.js": "/newRelease/precache-manifest.6623598f20aaf9285df3f0c7c8d559f0.js",
     "service-worker.js": "/newRelease/service-worker.js",
-    "static/js/2.9d8718e7.chunk.js.LICENSE.txt": "/newRelease/static/js/2.9d8718e7.chunk.js.LICENSE.txt",
-    "static/media/AppleMusic.svg": "/newRelease/static/media/AppleMusic.cd5eac42.svg",
-    "static/media/ava.png": "/newRelease/static/media/ava.d549df08.png"
+    "static/js/2.a3b0ee3e.chunk.js.LICENSE.txt": "/newRelease/static/js/2.a3b0ee3e.chunk.js.LICENSE.txt",
+    "static/media/ArianaGrande.jpg": "/newRelease/static/media/ArianaGrande.10e5c0d4.jpg",
+    "static/media/BillieEilish.jpg": "/newRelease/static/media/BillieEilish.d0f0ef37.jpg",
+    "static/media/DuaLipa.jpg": "/newRelease/static/media/DuaLipa.a58ebb17.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.762a49f9.js",
     "static/css/2.f53a4a22.chunk.css",
-    "static/js/2.9d8718e7.chunk.js",
-    "static/css/main.473d6a56.chunk.css",
-    "static/js/main.38a0e234.chunk.js"
+    "static/js/2.a3b0ee3e.chunk.js",
+    "static/css/main.cad724ad.chunk.css",
+    "static/js/main.50cc1292.chunk.js"
   ]
 }
