@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/newRelease/static/css/main.2057819a.chunk.css",
-    "main.js": "/newRelease/static/js/main.830eb193.chunk.js",
+    "main.css": "/newRelease/static/css/main.9840315d.chunk.css",
+    "main.js": "/newRelease/static/js/main.fe9736ea.chunk.js",
     "runtime-main.js": "/newRelease/static/js/runtime-main.762a49f9.js",
     "static/css/2.f53a4a22.chunk.css": "/newRelease/static/css/2.f53a4a22.chunk.css",
     "static/js/2.44179123.chunk.js": "/newRelease/static/js/2.44179123.chunk.js",
     "index.html": "/newRelease/index.html",
-    "precache-manifest.aff02ab87ece7e0d6b1492da6e242a57.js": "/newRelease/precache-manifest.aff02ab87ece7e0d6b1492da6e242a57.js",
+    "precache-manifest.eb9e532c06ff01c3b05c98d8dce6abb2.js": "/newRelease/precache-manifest.eb9e532c06ff01c3b05c98d8dce6abb2.js",
     "service-worker.js": "/newRelease/service-worker.js",
     "static/js/2.44179123.chunk.js.LICENSE.txt": "/newRelease/static/js/2.44179123.chunk.js.LICENSE.txt",
     "static/media/ArianaGrande.jpg": "/newRelease/static/media/ArianaGrande.10e5c0d4.jpg",
@@ -17,7 +17,7 @@
     "static/js/runtime-main.762a49f9.js",
     "static/css/2.f53a4a22.chunk.css",
     "static/js/2.44179123.chunk.js",
-    "static/css/main.2057819a.chunk.css",
-    "static/js/main.830eb193.chunk.js"
+    "static/css/main.9840315d.chunk.css",
+    "static/js/main.fe9736ea.chunk.js"
   ]
 }
