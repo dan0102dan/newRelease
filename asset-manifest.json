@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/newRelease/static/css/main.2057819a.chunk.css",
-    "main.js": "/newRelease/static/js/main.24b31f38.chunk.js",
+    "main.js": "/newRelease/static/js/main.fd31d934.chunk.js",
     "runtime-main.js": "/newRelease/static/js/runtime-main.762a49f9.js",
     "static/css/2.f53a4a22.chunk.css": "/newRelease/static/css/2.f53a4a22.chunk.css",
-    "static/js/2.db3f35ac.chunk.js": "/newRelease/static/js/2.db3f35ac.chunk.js",
+    "static/js/2.2d225651.chunk.js": "/newRelease/static/js/2.2d225651.chunk.js",
     "index.html": "/newRelease/index.html",
-    "precache-manifest.edf623a84c4c88a0c3fcb9933d9c7917.js": "/newRelease/precache-manifest.edf623a84c4c88a0c3fcb9933d9c7917.js",
+    "precache-manifest.ab1ac81e1479b89d3392d2587e7eac1f.js": "/newRelease/precache-manifest.ab1ac81e1479b89d3392d2587e7eac1f.js",
     "service-worker.js": "/newRelease/service-worker.js",
-    "static/js/2.db3f35ac.chunk.js.LICENSE.txt": "/newRelease/static/js/2.db3f35ac.chunk.js.LICENSE.txt",
+    "static/js/2.2d225651.chunk.js.LICENSE.txt": "/newRelease/static/js/2.2d225651.chunk.js.LICENSE.txt",
     "static/media/ArianaGrande.jpg": "/newRelease/static/media/ArianaGrande.10e5c0d4.jpg",
     "static/media/BillieEilish.jpg": "/newRelease/static/media/BillieEilish.d0f0ef37.jpg",
     "static/media/DuaLipa.jpg": "/newRelease/static/media/DuaLipa.a58ebb17.jpg"
@@ -16,8 +16,8 @@
   "entrypoints": [
     "static/js/runtime-main.762a49f9.js",
     "static/css/2.f53a4a22.chunk.css",
-    "static/js/2.db3f35ac.chunk.js",
+    "static/js/2.2d225651.chunk.js",
     "static/css/main.2057819a.chunk.css",
-    "static/js/main.24b31f38.chunk.js"
+    "static/js/main.fd31d934.chunk.js"
   ]
 }
