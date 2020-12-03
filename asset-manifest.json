@@ -1,23 +1,21 @@
 {
   "files": {
     "main.css": "/newRelease/static/css/main.9840315d.chunk.css",
-    "main.js": "/newRelease/static/js/main.2adb7007.chunk.js",
-    "runtime-main.js": "/newRelease/static/js/runtime-main.762a49f9.js",
-    "static/css/2.f53a4a22.chunk.css": "/newRelease/static/css/2.f53a4a22.chunk.css",
-    "static/js/2.44179123.chunk.js": "/newRelease/static/js/2.44179123.chunk.js",
+    "main.js": "/newRelease/static/js/main.bcc167c6.chunk.js",
+    "runtime-main.js": "/newRelease/static/js/runtime-main.6a061c76.js",
+    "static/css/2.fb75dcb6.chunk.css": "/newRelease/static/css/2.fb75dcb6.chunk.css",
+    "static/js/2.aacb388b.chunk.js": "/newRelease/static/js/2.aacb388b.chunk.js",
     "index.html": "/newRelease/index.html",
-    "precache-manifest.e43050570f7112dd1db36be9bf08a35d.js": "/newRelease/precache-manifest.e43050570f7112dd1db36be9bf08a35d.js",
-    "service-worker.js": "/newRelease/service-worker.js",
-    "static/js/2.44179123.chunk.js.LICENSE.txt": "/newRelease/static/js/2.44179123.chunk.js.LICENSE.txt",
-    "static/media/ArianaGrande.jpg": "/newRelease/static/media/ArianaGrande.10e5c0d4.jpg",
-    "static/media/BillieEilish.jpg": "/newRelease/static/media/BillieEilish.d0f0ef37.jpg",
-    "static/media/DuaLipa.jpg": "/newRelease/static/media/DuaLipa.a58ebb17.jpg"
+    "static/js/2.aacb388b.chunk.js.LICENSE.txt": "/newRelease/static/js/2.aacb388b.chunk.js.LICENSE.txt",
+    "static/media/ArianaGrande.5e8c2779.jpg": "/newRelease/static/media/ArianaGrande.5e8c2779.jpg",
+    "static/media/BillieEilish.11912ddf.jpg": "/newRelease/static/media/BillieEilish.11912ddf.jpg",
+    "static/media/DuaLipa.ac7e2d0c.jpg": "/newRelease/static/media/DuaLipa.ac7e2d0c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.762a49f9.js",
-    "static/css/2.f53a4a22.chunk.css",
-    "static/js/2.44179123.chunk.js",
+    "static/js/runtime-main.6a061c76.js",
+    "static/css/2.fb75dcb6.chunk.css",
+    "static/js/2.aacb388b.chunk.js",
     "static/css/main.9840315d.chunk.css",
-    "static/js/main.2adb7007.chunk.js"
+    "static/js/main.bcc167c6.chunk.js"
   ]
 }
