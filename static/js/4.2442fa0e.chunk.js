@@ -1,1 +1,0 @@
-(this.webpackJsonpnewrelease=this.webpackJsonpnewrelease||[]).push([[4],{332:function(e,s,a){"use strict";a.r(s);var n=a(329),t=a(330),i=a(331);n.init(),n.add(t),n.add(i),s.default=n}}]);
