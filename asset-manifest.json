@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/newRelease/static/css/main.67f3620a.chunk.css",
-    "main.js": "/newRelease/static/js/main.13d7d998.chunk.js",
+    "main.css": "/newRelease/static/css/main.8e89aa3b.chunk.css",
+    "main.js": "/newRelease/static/js/main.b6701876.chunk.js",
     "runtime-main.js": "/newRelease/static/js/runtime-main.6a061c76.js",
     "static/css/2.535010e0.chunk.css": "/newRelease/static/css/2.535010e0.chunk.css",
-    "static/js/2.0fee443c.chunk.js": "/newRelease/static/js/2.0fee443c.chunk.js",
+    "static/js/2.85636b3d.chunk.js": "/newRelease/static/js/2.85636b3d.chunk.js",
     "index.html": "/newRelease/index.html",
-    "static/js/2.0fee443c.chunk.js.LICENSE.txt": "/newRelease/static/js/2.0fee443c.chunk.js.LICENSE.txt",
+    "static/js/2.85636b3d.chunk.js.LICENSE.txt": "/newRelease/static/js/2.85636b3d.chunk.js.LICENSE.txt",
     "static/media/ArianaGrande.5e8c2779.jpg": "/newRelease/static/media/ArianaGrande.5e8c2779.jpg",
     "static/media/BillieEilish.11912ddf.jpg": "/newRelease/static/media/BillieEilish.11912ddf.jpg",
     "static/media/DuaLipa.ac7e2d0c.jpg": "/newRelease/static/media/DuaLipa.ac7e2d0c.jpg"
@@ -14,8 +14,8 @@
   "entrypoints": [
     "static/js/runtime-main.6a061c76.js",
     "static/css/2.535010e0.chunk.css",
-    "static/js/2.0fee443c.chunk.js",
-    "static/css/main.67f3620a.chunk.css",
-    "static/js/main.13d7d998.chunk.js"
+    "static/js/2.85636b3d.chunk.js",
+    "static/css/main.8e89aa3b.chunk.css",
+    "static/js/main.b6701876.chunk.js"
   ]
 }
