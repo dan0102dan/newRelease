@@ -1,5 +1,5 @@
 <h1 align="left">
-  <a href="image.png" width="250" alt="newRelease logo"></a>
+  <a href="https://vk.com/app7647010/"><img src="image.png" width="250" alt="newRelease logo"></a>
 </h1>
 
 Музыкальные новинки — сервис для отслеживания появления новых треков у Ваших любимых исполнителей!
